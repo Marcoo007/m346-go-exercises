@@ -21,6 +21,7 @@ func outputWithZodiacSign(p Person) {
 	var zodiacSign rune = '?'
 
 	// TODO: Assign proper value to zodiacSign using if/else branching.
+	if
 	// NOTE: The runes are defined above as constants.
 
 	fmt.Printf("%s %s, born on %02d.%02d.%04d, has the zodiac sign %c.\n",
